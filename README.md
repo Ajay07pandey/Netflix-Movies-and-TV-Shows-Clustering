@@ -1,4 +1,7 @@
 # Netflix-Movies-and-TV-Shows-Clustering
+
+![Netflix](https://github.com/Ajay07pandey/Netflix-Movies-and-TV-Shows-Clustering/assets/115704940/c62ead4f-cc86-4a59-8e10-287a27aa0f8e)
+
 This repository contains the code and resources for analyzing the Netflix dataset of movies and TV shows until 2019. The dataset was sourced from the third-party search engine Flixable and includes information about various attributes of the content available on Netflix. The goal of this project is to uncover insights, trends, and patterns within the dataset and develop a content-based recommender system using natural language processing (NLP) techniques.
 
 # Problem Statement
