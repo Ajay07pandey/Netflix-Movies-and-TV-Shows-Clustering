@@ -1,4 +1,4 @@
-# Netflix-Movies-and-TV-Shows-Clustering  [LINK]([url](https://huggingface.co/spaces/Ajay07pandey/Netfilx_Movie_Recommendation_System))
+# Netflix-Movies-and-TV-Shows-Clustering  [LINK]((https://huggingface.co/spaces/Ajay07pandey/Netfilx_Movie_Recommendation_System))
 
 ![Netflix](https://github.com/Ajay07pandey/Netflix-Movies-and-TV-Shows-Clustering/assets/115704940/c62ead4f-cc86-4a59-8e10-287a27aa0f8e)
 
